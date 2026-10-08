@@ -1,0 +1,31 @@
+{
+  "ui_browser": "Codex in-app browser",
+  "video_duration": 204.60771,
+  "measure_count": 90,
+  "note_event_count": 364,
+  "checked": [
+    "Video loaded with readyState 4 and no media error",
+    "17th measure click seeks to 39.589358 seconds; remains paused",
+    "+2 transposition updates every fret to source+2 and first chords to Ab/G",
+    "-1 transposition updates every fret to source-1 and first chords to F/E",
+    "Playback advances active measure and playhead",
+    "+8 limit disables + and maximum fret is 24",
+    "-5 limit disables - and minimum fret is 0",
+    "90th measure click seeks to 200.323303 seconds",
+    "Next at last measure remains on measure 90",
+    "Initial view restored to measure 1, 4.36 seconds, +1 semitone",
+    "No browser console errors or warnings during checks",
+    "No horizontal document overflow at tested narrow viewport",
+    "HTTP 206 range seeking and suffix ranges; invalid ranges return 416"
+  ],
+  "audio_pitch_shift": false,
+  "sync_basis": {
+    "startSeconds": 4.36,
+    "bpm": 109,
+    "beatsPerMeasure": 4
+  },
+  "limitations": [
+    "Score derived from previously visually reviewed transcription; not general automatic music OCR.",
+    "Timing estimated from the original video playhead; manual 0.05-second global adjustment is available."
+  ]
+}
